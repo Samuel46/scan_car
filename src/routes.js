@@ -1,15 +1,15 @@
 import { Navigate, useRoutes } from "react-router-dom";
-import { ChooseDamageCategory, InspectionMethod, Home, UploadScreen, NotFound } from "./pages";
+import { ChooseDamageCategory, InspectionMethod, UploadScreen, NotFound } from "./pages";
 import FeedBack from "./pages/FeedBack";
 import GetStarted from "./pages/GetStarted";
-import SelectedImages from "./pages/SelectedImaages";
+import SelectedImages from "./pages/SelectedImages";
 import UploadedImages from "./pages/UploadedImages";
 
 export default function Routes() {
 	return useRoutes([
 		{
 			path: "/",
-			element: <Home />,
+			element: <ChooseDamageCategory />,
 		},
 		{ path: "category", element: <ChooseDamageCategory /> },
 		{ path: "inspection", element: <InspectionMethod /> },

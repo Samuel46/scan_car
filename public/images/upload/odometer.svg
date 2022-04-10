@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="233" height="76" viewBox="0 0 233 76">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#31d98a" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#31d98a"/>
+      <stop offset="1" stop-color="#31d98a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6296" data-name="Group 6296" transform="translate(-803.311 -350.183)">
+    <g id="Group_6295" data-name="Group 6295" transform="translate(803.197 349.724)">
+      <g id="Rectangle_3110" data-name="Rectangle 3110" transform="translate(0.113 0.46)" fill="none" stroke="#31d98a" stroke-width="4">
+        <rect width="233" height="76" rx="10" stroke="none"/>
+        <rect x="2" y="2" width="229" height="72" rx="8" fill="none"/>
+      </g>
+      <rect id="Rectangle_3109" data-name="Rectangle 3109" width="229" height="73" rx="8" transform="translate(2.113 2.46)" opacity="0.354" fill="url(#linear-gradient)"/>
+      <text id="_000000" data-name="000000" transform="translate(11.113 53.459)" fill="#31d98a" font-size="43" font-family="Assistant-Medium, Assistant" font-weight="500" letter-spacing="0.36em" opacity="0.497"><tspan x="0" y="0">000000</tspan></text>
+    </g>
+  </g>
+</svg>
